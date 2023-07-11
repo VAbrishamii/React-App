@@ -1,0 +1,10 @@
+.container {
+    background-color: #505050;
+    padding: 3px;
+ 
+}
+.container p{
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
